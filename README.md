@@ -8,7 +8,7 @@ A series of portraits to celebrate [Apple’s new racially diverse emoji](http:/
 
 ### “Person with Folded Hands. Gandhi. 🙏”
 
-![Person with Folded Hands. Gandhi.](person-with-folded-hands-gandhi.png)
+![Person with Folded Hands. Gandhi.](sampleImages/person-with-folded-hands-gandhi.png)
 
 ## How to use
 
