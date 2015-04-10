@@ -14,4 +14,4 @@ A series of portraits to celebrate [Apple’s new racially diverse emoji](http:/
 
 Run the emojify.py script with the following parameters:
 
-```./emojify.py sourceImages/image.jpg output/emojiportrait.txt```
+```python emojify.py sourceImages/image.jpg output/emojiportrait.txt```
